@@ -226,7 +226,7 @@ footer ul {
 /* moblie drop down menu */
 .burger-nav {
       display: block;
-      height: 40px;
+      height: 80px;
       width: 100%;
       background: url(images/burger.png) no-repeat 98% center;
       background-color: #404040;
@@ -234,7 +234,7 @@ footer ul {
 }
 
 header .wrapper {
-    width: 90%;
+    width: 100%;
     padding: 0;
 }
 
@@ -255,7 +255,7 @@ header nav ul li {
     margin: 0;
 }
 
-header nav ul li  a {
+header nav ul li a {
     color: #fff;
     padding: 10px;
     border-bottom: 1px solid #404040;
